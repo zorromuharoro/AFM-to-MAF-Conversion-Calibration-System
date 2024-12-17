@@ -2,6 +2,11 @@
 
 Bu proje, araçlardaki MAF (Mass Air Flow) sensörlerinin çıkış sinyallerini AFM (Air Flow Meter) sinyallerine dönüştüren kapsamlı bir kalibrasyon sistemidir.
 
+## Attribution Requirements
+This project requires mandatory attribution. Any use, modification, or distribution 
+of this software must include clear credit to the original author:
+Muharrem Şişili (https://github.com/zorromuharoro)
+
 ## Proje Yapısı
 
 ```
@@ -101,4 +106,4 @@ pip install PyQt5 pyserial numpy matplotlib pyqtgraph
 
 ## Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
+Bu proje GNU General Public License v3 (GPL-3.0) lisansı altında lisanslanmıştır ve zorunlu atıf gerektirmektedir. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
