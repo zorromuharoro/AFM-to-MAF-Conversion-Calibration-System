@@ -5,7 +5,7 @@ Bu proje, araçlardaki MAF (Mass Air Flow) sensörlerinin çıkış sinyallerini
 ## Attribution Requirements
 This project requires mandatory attribution. Any use, modification, or distribution 
 of this software must include clear credit to the original author:
-Muharrem Şişili (https://github.com/zorromuharoro)
+Muharrem Şişli (@zorromuharoro on GitHub - https://github.com/zorromuharoro)
 
 ## Proje Yapısı
 
