@@ -95,6 +95,10 @@ pip install PyQt5 pyserial numpy matplotlib pyqtgraph
 3. Python uygulamasını başlatın:
    - Otomatik kalibrasyon için auto_calibrator
    - Manuel kalibrasyon için manual_calibrator
+   
+## Note:
+
+This project is still a work in progress. Some documentation and schematics may be missing. However, the core functionality is operational and usable.
 
 ## Katkıda Bulunma
 
